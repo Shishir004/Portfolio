@@ -23,7 +23,7 @@ const Hero = () => {
           <a href='#about'>
             <div className='w-[35px] h-[64px] border-4 border-secondary flex justify-center rounded-3xl
             items-start p-2'>
-              <motion.dev
+              <motion.div
               animate={{
                 y:[0,28,0]
               }}
